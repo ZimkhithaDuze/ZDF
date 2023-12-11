@@ -1,0 +1,50 @@
+body {
+    background-color: #ab1a2d;
+    color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+    margin-right: 200px;
+}
+.email-link {
+    color: antiquewhite;
+}
+.fa-instagram, .fa-envelope {
+    padding: 20px; 
+}
+.hero {
+    background-image: url("paint\ drips\ powerfully\ +\ poignantly\ evoke\ the\ human\ experience\ through\ the\ lens\ of\ tim\ tadder.jpeg");
+    text-align: center;
+    padding: 10px 20px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    display: block;
+margin-left: auto;
+margin-right: 200px;
+width: 50%;
+  }
+  a:hover {
+    color: #ffffff;
+  }
+  .contact-button {
+    text-align: center;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+  footer .email-link {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 24px;
+}
+.contact-button{
+  margin-left: 330px;
+}
+.fa-instagram, .fa-envelope {
+padding: 20px; 
+}
+.navigation-links {
+    font-weight: bold;
+    color: #ffffff;
+  }
